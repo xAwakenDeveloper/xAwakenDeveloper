@@ -32,3 +32,11 @@
     <img src="https://img.shields.io/badge/Repositories-4-5834eb?style=flat" alt="Repositories"/>
     <img src="https://img.shields.io/badge/Completed Bots-2-5834eb?style=flat" alt="Bots"/>
 </p>
+
+---
+
+<div align="center">
+    <img src="https://github.com/xAwakenDeveloper/xAwakenDeveloper/blob/main/lunati%20dreams%20(1000%20x%20500%20px).png" alt="Lunatic Dreams Logo" height="200px"/>
+</div>
+
+---
