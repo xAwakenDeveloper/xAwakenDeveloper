@@ -1,10 +1,10 @@
 # 👋 What's up, my name is Awakenx. 
 
-Welcome to my profile!
+**Welcome to my profile!**
 
-I’m the founder of Lunatic Dreams, where we focus on creating web projects and free tools/wrappers. I enjoy building useful solutions, experimenting with new technologies, and sharing my work with the community.
+**I’m the founder of Lunatic Dreams, where we focus on creating web projects and free tools/wrappers.<br/> I enjoy building useful solutions, experimenting with new technologies, and sharing my work with the community.**
 
-Below you can find what I do!
+**Below you can find what I do!**
 
 ---
 
@@ -27,6 +27,8 @@ Below you can find what I do!
 
 ---
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20views&color=5834eb&style=flat" alt="itztiva" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20views&color=5834eb&style=flat" alt="Views" />
+    <img src="https://img.shields.io/badge/Repositories-4-5834eb?style=flat" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Completed Bots-2-5834eb?style=flat" alt="Bots"/>
 </p>
