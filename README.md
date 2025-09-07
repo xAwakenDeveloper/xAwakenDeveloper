@@ -1,4 +1,4 @@
-# 👋 What's up, my name is Awakenx. 
+# 👋 What's up, my name is Awaken Developer. 
 
 **Welcome to my profile!**
 
