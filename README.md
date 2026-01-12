@@ -18,7 +18,7 @@
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=xAwakenDeveloper&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=5834eb&rank_icon=github&title_color=5834eb" 
+        src="https://github-readme-stats.vercel.app/api?username=xAwakenDeveloper&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=5834eb&rank_icon=github&title_color=5834eb&cache_seconds=1800" 
         width="500px" 
         alt="Github Stats"
         style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);"
