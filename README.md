@@ -62,9 +62,9 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20Views&color=41B883&style=flat" alt="Views" />
-    <img src="https://img.shields.io/badge/Repositories-5-41B883?style=flat" alt="Repositories"/>
-    <img src="https://img.shields.io/badge/Completed Bots-2-41B883?style=flat" alt="Bots"/>
+    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20Views&color=52A044&style=flat" alt="Views" />
+    <img src="https://img.shields.io/badge/Repositories-5-52A044?style=flat" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Completed Bots-2-52A044?style=flat" alt="Bots"/>
 </p>
 
 <div align="center">
