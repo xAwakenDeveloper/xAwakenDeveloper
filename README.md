@@ -52,7 +52,7 @@
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=xAwakenDeveloper&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=5834eb&rank_icon=github&title_color=5834eb&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api?username=xAwakenDeveloper&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=41B883&rank_icon=github&title_color=41B883&cache_seconds=1800" 
         width="500px" 
         alt="Github Stats"
         style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);"
@@ -62,9 +62,9 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20Views&color=5834eb&style=flat" alt="Views" />
-    <img src="https://img.shields.io/badge/Repositories-5-5834eb?style=flat" alt="Repositories"/>
-    <img src="https://img.shields.io/badge/Completed Bots-2-5834eb?style=flat" alt="Bots"/>
+    <img src="https://komarev.com/ghpvc/?username=xAwakenDeveloper&label=Profile%20Views&color=41B883&style=flat" alt="Views" />
+    <img src="https://img.shields.io/badge/Repositories-5-41B883?style=flat" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Completed Bots-2-41B883?style=flat" alt="Bots"/>
 </p>
 
 <div align="center">
