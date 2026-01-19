@@ -44,7 +44,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/xAwakenDeveloper/xAwakenDeveloper/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xAwakenDeveloper/xAwakenDeveloper/output/snake.svg" alt="Snake animation" />
 
 ---
 
