@@ -1,4 +1,4 @@
-# 👋 What's up, my name is Awaken Developer. 
+# 👋 Hello! My name is Awaken Developer. 
 
 **Welcome to my profile!**
 
@@ -64,6 +64,15 @@
     <img src="https://img.shields.io/badge/Repositories-5-5834eb?style=flat" alt="Repositories"/>
     <img src="https://img.shields.io/badge/Completed Bots-2-5834eb?style=flat" alt="Bots"/>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://bsky.app/profile/awakenxdev.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="bluesky logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="paypal logo"  />
+</div>
 
 ---
 
