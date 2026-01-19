@@ -1,18 +1,22 @@
-# 👋 Hello! My name is Awaken Developer. 
+<h1 align="center">👋 Hello! My name is Awaken Developer 👋</h1>
 
+<div align="center">
+  
 **Welcome to my profile!**
 
 **I’m the founder of Lunatic Dreams, where we focus on creating web projects and free tools/wrappers.<br/> I enjoy building useful solutions, experimenting with new technologies, and sharing my work with the community.**
 
 **Below you can find what I do!**
+</div>
 
 ---
-
-💻 • I'm a .NET, C++, C#, Java Script and React.JS Fullstack Developer. <br/>
-🤖 • I'm also working with Discord.JS to create Discord Bots. <br/>
-🎮 • I'm interested in Unity Engine, Artificial Intelligence and Reverse Engineering. <br/>
-💡 • I love stage equipment, epecially lighting and sounds systems. I'm playing with fixtures. <br/>
-🌴 • I'm not an open source type guy, please note that none of my major projects are published in public repositories.
+<div align="center">
+✦ • I'm a .NET, C++, C#, Java Script and React.JS Fullstack Developer • ✦<br/>
+✦ • I'm also working with Discord.JS to create Discord Bots • ✦<br/>
+✦ • I'm interested in Unity Engine, Artificial Intelligence and Reverse Engineering • ✦<br/>
+✦ • I love stage equipment, epecially lighting and sounds systems. I'm playing with fixtures • ✦<br/>
+✦ • I'm not an open source type guy, please note that none of my major projects are published in public repositories • ✦
+</div>
 
 ---
 
