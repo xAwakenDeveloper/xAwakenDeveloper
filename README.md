@@ -4,7 +4,7 @@
   
 **Welcome to my profile!**
 
-**I’m the founder of Lunatic Dreams, where we focus on creating web projects and free tools/wrappers.<br/> I enjoy building useful solutions, experimenting with new technologies, and sharing my work with the community.**
+**I’m focusing on creating projects that use AI, web projects and free tools/wrappers. I'm also a modder of couple games.<br/> I enjoy building useful solutions, experimenting with new technologies, and sharing my work with the community.**
 
 **Below you can find what I do!**
 </div>
